@@ -1,0 +1,19 @@
+WILL to FIGHT: Analyzing, Modeling, and Simulating the Will to Fight of Military Units https://apps.dtic.mil/sti/pdfs/AD1059607.pdf
+
+Distributed Interactive Simulation of Combat: https://www.princeton.edu/~ota/disk1/1995/9512/951203.PDF
+
+Military Simulation Systems: https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781118180310.oth2
+
+Army Modeling and Simulation: https://asb.army.mil/LinkClick.aspx?fileticket=M8db7xhiVso%3D&portalid=105
+
+COMPUTATIONAL METHODS FOR TACTICAL SIMULATIONS: https://core.ac.uk/download/pdf/39944877.pdf
+
+Warfare Simulation and Technology Forecasting in Support of Military Decision Making: pdf
+
+Simulation Models for Hybrid Warfare & Population Simulation: pdf
+
+ARMY FORCE MANAGEMENT MODEL: https://ssl.armywarcollege.edu/dclm/pubs/HTAR.pdf
+
+THE MANEUVER AND ATTRITION WARFARE SIMULATION SYSTEM: https://www.marinha.mil.br/spolm/sites/www.marinha.mil.br.spolm/files/arq0061_0.pdf
+
+
